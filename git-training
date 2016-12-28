@@ -1,0 +1,14 @@
+環境設定
+git config --global user.email socool4141@ntnu.edu.tw
+git config --global user.name "socool4141"
+git config --list
+
+本機資料夾設定
+cd /c
+(在c槽開個test資料夾)
+cd test
+git init(初始化儲存體環境)
+
+從雲端HUB複製儲存體
+git clone https://github.com/tim72117/git-training.git
+cd git-training/ (進入TRAINING資料夾)
